@@ -1,0 +1,17 @@
+[project]
+name = "correccionexamen"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "groq>=0.18.0",
+    "loguru>=0.7.3",
+    "numpy>=2.2.3",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+    "plotly>=6.0.0",
+    "python-dotenv>=1.0.1",
+    "streamlit>=1.42.2",
+    "tiktoken>=0.9.0",
+]
